@@ -3,10 +3,10 @@ Challenge 1 due 8.25.2022
 
 [Live Link] ()
 
-![Screenshot] (/desktop/challenges/challenge1/screenshot/challenge1_screenshot.png) 
+[Screenshot] (./screenshot/challenge1_screenshot.png) 
 
 Changes Made:
-    Re-named html (specifically <div></div>) sections to more syntax appropriate labels to help with specificty to placement on the page.
+    Re-named html (specifically "div" sections to more syntax appropriate labels to help with specificty to placement on the page.
 
     Condensed similar CSS elements (specifically .benefit) to reduce redundancy
 
