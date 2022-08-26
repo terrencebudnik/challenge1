@@ -1,11 +1,11 @@
 # challenge1
 Challenge 1 due 8.25.2022
 
-[Live Link] ()
+[Live Link] (https://terrencebudnik.github.io/challenge1/)
 
-[Screenshot] (./screenshot/challenge1_screenshot.png) 
+![Screenshot](challenge1_screenshot)
 
-Changes Made:
+Changes Made
     Re-named html (specifically "div" sections to more syntax appropriate labels to help with specificty to placement on the page.
 
     Condensed similar CSS elements (specifically .benefit) to reduce redundancy
